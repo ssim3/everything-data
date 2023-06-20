@@ -29,7 +29,7 @@ git clone https://github.com/ssim3/everything-data.git
 4. Open the desired notebook using the Jupyter interface, and start exploring the content.
 
 # Updates
-I will do my best to do regular updates of 1 notebook per month, however, please understand if there is a delay in release.
+I aim to upload 1 new notebook every month (1 new course a month). However, please do understand if there is a delay in release.
 
 # Contributing
 Contributions are welcome and encouraged! If you'd like to contribute to this repository, please follow these guidelines:
