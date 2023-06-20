@@ -12,9 +12,9 @@ In today's data-driven world, knowledge of data analysis and machine learning ha
 
 Here's a list of the notebooks available in this repository <b>to date</b>:
 
-|                        Notebook                          | Description of use                                                                                                                                                           |
+|                        Notebooks                          | Description of use                                                                                                                                                           |
 | :------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|              [Intro to Statistics]([https://nextjs.org](https://github.com/ssim3/everything-data/tree/main/Into%20to%20Statistics))            | This notebook covers the fundamental concepts of statistics, including descriptive statistics, probability, hypothesis testing, and statistical distributions.               |
+|              [Intro to Statistics]([https://nextjs.org](https://github.com/ssim3/everything-data/tree/main/Into%20to%20Statistics))            | These notebooks covers the fundamental concepts of statistics, including descriptive statistics, probability, hypothesis testing, and statistical distributions.               |
 
 # Getting Started
 
