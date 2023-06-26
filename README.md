@@ -14,6 +14,7 @@ Here's a list of the notebooks available in this repository <b>to date</b>:
 |                        Notebooks                          | Description of use                                                                                                                                                           |
 | :------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |              [Intro to Statistics]([https://nextjs.org](https://github.com/ssim3/everything-data/tree/main/Into%20to%20Statistics))            | These notebooks covers the fundamental concepts of statistics, including descriptive statistics, probability, hypothesis testing, and statistical distributions.               |
+|               Vectorization and Broadcasting                                                                                                   | This notebook dives deep into some of NumPy's most powerful features, Vectorization and Broadcasting |
 
 <br>
 
